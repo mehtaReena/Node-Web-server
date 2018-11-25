@@ -60,6 +60,6 @@ app.get('/bad',(req,res)=>{
 });
 
 app.listen(3000,()=>{
- console.log('Server is starting on port 3000!!');
+ console.log('Server is starting on port 3000 ......................');
 
 });
